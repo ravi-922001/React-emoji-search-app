@@ -1,0 +1,12 @@
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    padding: 20px;
+    border-top: 1px solid rgba(216, 112, 147, 0.589);
+}
+
+.box div {
+    font-size: 20px;
+}
